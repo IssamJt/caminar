@@ -1,0 +1,16 @@
+.bgimg {
+  background-image: url("../images/bg.jpg");
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+:root .gray {
+  color: #717171;
+}
+:root .bg {
+  background-color: #f0f0f0;
+}
+:root .gray2 {
+  color: #444444;
+}
+
+/*# sourceMappingURL=style.css.map */
