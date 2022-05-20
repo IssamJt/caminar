@@ -1,10 +1,11 @@
 .bgimg {
   background-image: url("../images/bg.jpg");
   background-repeat: repeat-y;
-  background-size: cover;
+  background-size: 100%;
 }
+
 :root .gray {
-  color: #717171;
+  color: #787878;
 }
 :root .bg {
   background-color: #f0f0f0;
